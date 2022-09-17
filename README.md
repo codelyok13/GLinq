@@ -296,9 +296,3 @@ Array | Converts the Enumerator into an index-able array. | gLinq.Array() # [1,[
 
 ## Glitches
 1. Empty Enumerators make all subsequent calls empty no matter what. It will probably be fixed by moving Any() into the IEnumerator so that if there is Any() return the original GLinq.
-
-	
-	
-	
-	
-	
